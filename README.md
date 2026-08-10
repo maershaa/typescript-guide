@@ -1,5 +1,7 @@
 # 🚀 Міграція React + Vite проєкту з JavaScript на TypeScript
 
+> Практичні нотатки з поступової міграції React + Vite проєкту
+> з JavaScript на TypeScript.
 ---
 
 ## Зміст
